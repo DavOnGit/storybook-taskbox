@@ -1,3 +1,4 @@
+## Your Storybook will be deployed to Chromatic whenever you push code
 
 # Workflow name
 name: 'Chromatic Deployment'
